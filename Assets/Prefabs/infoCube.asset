@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a6eb28570d2b664f8b1b0855443da93, type: 3}
+  m_Name: infoCube
+  m_EditorClassIdentifier: 
+  target: {fileID: 1797284849078450, guid: 1cd632a9743ef4945a2690e052a0eb21, type: 2}
+  size:
+  - 5
+  - 5
+  - 5
+  - 5
+  - 4.8
+  - 5
+  - 5
+  - 5
+  - 5
+  isAlive: 1
+  wantDisplayTargets: 1
+  displayTargets: 1
+  index: 8
+  colorTarget: 0
+  timerHit: 0
+  timerStart: 0
+  start: 1
